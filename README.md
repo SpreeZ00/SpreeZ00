@@ -14,6 +14,8 @@ Frameworks / Enviroments / Languages / Databases I use(d before):
 
 - [Vue.js](https://vuejs.org)
 
+- [Nuxt.js](https://nuxtjs.org)
+
 - [Node.js](https://nodejs.org)
 
 - [PaperMC](https://papermc.io)
