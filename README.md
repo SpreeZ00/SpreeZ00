@@ -6,6 +6,10 @@ Frameworks / Enviroments / Languages / Databases I use(d before):
 
 - Java
 
+- Python
+
+- [Django](https://djangoproject.com)
+
 - JavaScript
 
 - HTML
