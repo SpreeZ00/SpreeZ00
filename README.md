@@ -18,7 +18,7 @@ Business information systems student and web developer trying to write the perfe
 
 - Website: [Larsrose.com](https://larsrose.com)
 
-### A funny quoute
+### Funny quote
 
 > "Debugging is like being the detective in a crime movie where you're also the murderer."
 
